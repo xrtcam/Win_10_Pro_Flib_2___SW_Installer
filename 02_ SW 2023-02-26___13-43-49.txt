@@ -1,0 +1,54 @@
+
+Это копия того что делает скрипт
+==================================================
+Установка драйверов с сайта Aser
+Создание ссылок на это: xxx
+Удалить забекдориные предоставленные настройки для дефолта Google Chrome.
+Open the Drivers folder
+Run Dism++10.1.1002.1 . Portable
+Intel Driver and Support Assistant Installer
+Samsung_NVM_Express_Driver_3.3
+Nitro 5. Utilities.
+Acer Care Center
+Quick Access Acer
+Удали все Visual C++ Redistributable
+Установить Visual C++ Redistributable. 2005-2022
+
+7z
+Audacity
+Blender 3D
+ChromeSetup
+CPU-Z
+CrystalDiskInfo
+CrystalDiskMark
+DM. yt-dlp
+Download Master
+FastStone Image Viewer
+FileZilla
+FreeFileSync
+FurMark
+GIMP
+Git
+HomeBank
+HomeBank. Перенести кошельки
+KeePass 2
+LibreOffice
+LibreOffice. (LibreOffice_7.5.0_Win_x86-64_helppack_ru.msi )
+Macrorit Partation Expert Free
+MPC-HC
+Open 010.kdbx
+PDF24 Creator
+Python
+qBittorrent
+Real Temp
+Slim PDF Reader
+Sublime Text. Настройка
+Sublime Text. Установка
+Sublime Text. Установка Плагинов
+TechPowerUp GPU-Z
+Telegram Desktop
+Total Commander
+unchecky
+VirtualBox
+VLC
+Yandex Browser

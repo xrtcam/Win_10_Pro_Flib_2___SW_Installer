@@ -1,0 +1,80 @@
+Первым делом
+{
+    j8vYbIeoXI0I2x2x9Fr3 (2.32 gb) - Это бекап дирки - `exe_sw`. Найди ее в toshiba\`Distr_SW` и скопируй содержимое в `exe_sw`.
+
+    Положи эти папки в папку `exe_sw`
+    {
+        exe_sw\esw_DXjS8btfzGNBPBSZw3jq // [2.29 Gb]
+        exe_sw\esw_Z3R9PmFI0VeaPRifwSHH
+        exe_sw\esw_padEEyI1SXW4b0gyvwQ3
+        exe_sw\
+    }
+        
+
+    Поясение что это за dirs
+    {
+
+        esw_DXjS8btfzGNBPBSZw3jq
+            Drivers folder 
+            Это dir с драйверами для Nitro 5 [GTX 1050]
+
+        esw_Z3R9PmFI0VeaPRifwSHH
+            Dism++10.1.1002.1 . Portable
+            Завернута в архив - esw_Z3R9PmFI0VeaPRifwSHH.zip // 7.45 Mb
+
+        esw_padEEyI1SXW4b0gyvwQ3
+            Sublime Text
+                Установка
+                Настройка
+                Установка Плагинов
+
+    }
+    Все dirs запакованы в архивы для целостности. Распакуй папки.
+}
+
+
+
+--------------------------------------------------
+Все файлы `x.ps` редачить и открывать только в PowerShell ISE
+0.ps1 - Это main script
+cmd.exe - Просто ссыль для запуска cmd
+--------------------------------------------------
+Write-Host "xxx"
+Write-Host "xxx"
+Write-Host "xxx"
+Write-Host "xxx"
+==================================================
+if ($but_consol -eq 'y') {
+    xxx
+}
+==================================================
+C:\Windows\system32\cmd.exe
+==================================================
+C:\Program Files\7-Zip\
+C:\Program Files (x86)\xcvb\Unchecky
+C:\Program Files\KeePass Password Safe 2
+C:\Program Files (x86)\xcvb\FastStone_Image_Viewer
+C:\Users\xcvb\AppData\Roaming\Telegram Desktop
+C:\Program Files\Sublime Text
+C:\Program Files\qBittorrent
+C:\Program Files\HomeBank
+C:\Users\xcvb\AppData\Local\Programs\HomeBank
+C:\Program Files\MPC-HC
+C:\Program Files\VideoLAN\VLC
+C:\Program Files\FileZilla FTP Client
+C:\Program Files\FreeFileSync
+C:\Program Files\Macrorit\Partition Expert
+C:\Program Files\Git
+C:\Program Files\Oracle\VirtualBox\
+--------------------------------------------------
+C:\Program Files\totalcmd
+C:\Users\xcvb\Downloads\esw_X8YfHa0xUOaenzExYqfu\fix
+wincmd.key
+--------------------------------------------------
+==================================================
+
+
+
+
+
+
